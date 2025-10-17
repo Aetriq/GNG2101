@@ -1,6 +1,13 @@
 # GNG2101 Z13 Piano Assist Device
 
 The following repository features the code for the 'Piano Assist Device' prosthetic. Designed for use on the Raspberry Pi Pico W (v1) and 433MHz transmitter and reciever. 
+Primary Webpage on [[MakerRepo](https://makerepo.com/ctourangeau/2544.gng2101z13piano-assist-device)]
+
+Team Members:
+M. Barette
+C. Tourangeau
+A. Gordon
+T. Guan
 
 # For installation, use the latest version plugged into the OTG port. Refer to the user manual for detailed steps.
 
