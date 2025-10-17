@@ -4,10 +4,10 @@ The following repository features the code for the 'Piano Assist Device' prosthe
 Primary Webpage on [[MakerRepo](https://makerepo.com/ctourangeau/2544.gng2101z13piano-assist-device)]
 
 Team Members:
-M. Barette
-C. Tourangeau
-A. Gordon
-T. Guan
+- M. Barette
+- C. Tourangeau
+- A. Gordon
+- T. Guan
 
 # For installation, use the latest version plugged into the OTG port. Refer to the user manual for detailed steps.
 
